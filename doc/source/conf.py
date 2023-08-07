@@ -18,6 +18,10 @@ extensions = [
     'otc_sphinx_directives'
 ]
 
+# Those variables are needed for indexing into OpenSearch
+otcdocs_search_environment = 'hc_swiss'
+otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
+
 smartquotes = False
 
 # openstackdocstheme options
