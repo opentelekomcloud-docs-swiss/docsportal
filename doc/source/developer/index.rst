@@ -9,4 +9,3 @@ Developer
    sdk
    iac
    drivers
-   Blueprints <https://docs.otc.t-systems.com/blueprints>
