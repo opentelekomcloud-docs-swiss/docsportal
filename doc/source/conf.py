@@ -64,6 +64,8 @@ html_favicon = '_static/favicon.ico'
 html_theme_options = {
     'show_other_versions': False,
     'sidebar_mode': 'toctree',
+    'site_name': 'Open Telekom Cloud Swiss Documentation Portal',
+    'logo_url': 'https://docs-beta.sc.otc.t-systems.com',
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
