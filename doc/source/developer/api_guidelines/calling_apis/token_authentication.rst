@@ -28,7 +28,7 @@ Procedure
       Log in to the management console, click your username in the upper right corner, and choose **My Credential** from the drop-down list. On the **My
       Credential** page, obtain your username, domain name, and project ID.
 
-   .. code-block:: json
+   .. code-block::
 
       {
         "auth": {

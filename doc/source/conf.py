@@ -19,6 +19,13 @@ extensions = [
 ]
 
 # Those variables are needed for indexing into OpenSearch
+otcdocs_doc_environment = ''
+otcdocs_doc_link = ''
+otcdocs_doc_title = ''
+otcdocs_doc_type = ''
+otcdocs_service_category = ''
+otcdocs_service_title = ''
+otcdocs_service_type = ''
 otcdocs_search_environment = 'hc_swiss'
 otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
 
@@ -64,6 +71,7 @@ html_favicon = '_static/favicon.ico'
 html_theme_options = {
     'show_other_versions': False,
     'sidebar_mode': 'toctree',
+    "logo_url": "https://docs-beta.sc.otc.t-systems.com",
 }
 
 # Add any paths that contain custom static files (such as style sheets) here,
