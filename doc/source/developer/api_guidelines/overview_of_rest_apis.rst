@@ -40,7 +40,7 @@ being conveyed in a request message.
    +-------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
    | Endpoint                                                                      | Domain name or IP address of the server where the RESTful service endpoint is |
    |                                                                               | hosted. You can obtain the value from `Regions and                            |
-   |                                                                               | Endpoints <https://docs.otc.t-systems.com/en-us/endpoint/index.html>`__.      |
+   |                                                                               | Endpoints <https://docs.sc.otc.t-systems.com/en-us/endpoint/index.html>`__.   |
    +-------------------------------------------------------------------------------+-------------------------------------------------------------------------------+
    | resource-path                                                                 | Path in which the resource requested by the API is located. The path is       |
    |                                                                               | provided by the URI module of APIs, for example, **v3/auth/tokens**.          |
