@@ -17,7 +17,7 @@ Procedure
 
 ..
 
-   See `Regions and Endpoints <https://docs.otc.t-systems.com/en-us/endpoint/index.html>`__.
+   See `Regions and Endpoints <https://docs.sc.otc.t-systems.com/en-us/endpoint/index.html>`__.
 
    An example request is as follows:
 
