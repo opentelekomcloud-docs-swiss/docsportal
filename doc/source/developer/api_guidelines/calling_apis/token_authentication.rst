@@ -17,7 +17,7 @@ Procedure
 
 ..
 
-   See `Regions and Endpoints <https://docs.otc.t-systems.com/en-us/endpoint/index.html>`__.
+   See `Regions and Endpoints <https://docs.sc.otc.t-systems.com/en-us/endpoint/index.html>`__.
 
    An example request is as follows:
 
@@ -28,7 +28,7 @@ Procedure
       Log in to the management console, click your username in the upper right corner, and choose **My Credential** from the drop-down list. On the **My
       Credential** page, obtain your username, domain name, and project ID.
 
-   .. code-block::
+   .. code-block:: json
 
       {
         "auth": {

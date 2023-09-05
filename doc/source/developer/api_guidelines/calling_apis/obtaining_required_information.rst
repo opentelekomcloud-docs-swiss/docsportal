@@ -19,8 +19,8 @@ Required Information
    | Region/Endpoint                                    | ``-``                                              | Region and endpoint.                               |
    |                                                    |                                                    |                                                    |
    |                                                    |                                                    | See `Regions and                                   |
-   |                                                    |                                                    | Endpoints <https://docs.otc.t-systems.com/en-us/en |
-   |                                                    |                                                    | dpoint/index.html>`__.                             |
+   |                                                    |                                                    | Endpoints <https://docs.sc.otc.t-systems.com/en-us |
+   |                                                    |                                                    | /endpoint/index.html>`__.                          |
    +----------------------------------------------------+----------------------------------------------------+----------------------------------------------------+
    | Project ID                                         | project_id                                         | Project ID, which is configured in the URI in most |
    |                                                    |                                                    | cases.                                             |

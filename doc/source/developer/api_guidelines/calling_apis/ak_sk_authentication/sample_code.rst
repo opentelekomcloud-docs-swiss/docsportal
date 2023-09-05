@@ -61,8 +61,8 @@ Procedure
 
    .. code-block:: java
 
-      //TODO: Replace eu-de with the name of the region in which the service to be accessed is located.
-      private static final String region = "eu-de";
+      //TODO: Replace eu-ch2 with the name of the region in which the service to be accessed is located.
+      private static final String region = "eu-ch2";
 
       //TODO: Replace vpc with the name of the service you want to access. For example, ecs, vpc, iam, and elb.
       private static final String serviceName = "vpc";
@@ -78,25 +78,25 @@ Procedure
       //TODO: To add a header, find "Add special headers" in the AccessServiceImple.java file.
 
       //TODO: Test the API
-      String url = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
+      String url = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
       get(ak, sk, url);
 
       //TODO: When creating a VPC, replace {project_id} in postUrl with the actual value.
-      //String postUrl = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/cloudservers";
+      //String postUrl = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/cloudservers";
       //String postbody ="{\"vpc\": {\"name\": \"vpc\",\"cidr\": \"192.168.0.0/16\"}}";
       //post(ak, sk, postUrl, postbody);
 
       //TODO: When querying a VPC, replace {project_id} in url with the actual value.
-      //String url = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
+      //String url = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
       //get(ak, sk, url);
 
       //TODO: When updating a VPC, replace {project_id} and {vpc_id} in putUrl with the actual values.
-      //String putUrl = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
+      //String putUrl = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
       //String putbody ="{\"vpc\":{\"name\": \"vpc1\",\"cidr\": \"192.168.0.0/16\"}}";
       //put(ak, sk, putUrl, putbody);
 
       //TODO: When deleting a VPC, replace {project_id} and {vpc_id} in deleteUrl with the actual values.
-      //String deleteUrl = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
+      //String deleteUrl = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
       //delete(ak, sk, deleteUrl);
       }
 
@@ -107,7 +107,7 @@ Procedure
       .. code-block:: java
 
          //TODO: Test the API
-         String url = "https://vpc.eu-de.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
+         String url = "https://vpc.eu-ch2.sc.otc.t-systems.com/v1/{project_id}/vpcs/{vpc_id}";
          get(ak, sk, url);
 
    .. _apig-en-api-180328008__li11427145613263:
