@@ -11,4 +11,3 @@ Services
    security
    app
    database
-   data_analysis
