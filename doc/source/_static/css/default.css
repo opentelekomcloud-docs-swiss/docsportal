@@ -37,9 +37,9 @@
 }
 
 /* limit icon size in the card li */
-.navigator-container .card > ul > li > a > div > div > img {
-    max-height: 20px;
-    max-width: 20px;
+.icon-svg {
+  max-height: 20px;
+  max-width: 20px;
 }
 
 .navigator-container .card li {
@@ -104,6 +104,7 @@
 /* Dark Mode */
 
 @media (prefers-color-scheme: dark) {
+  /* Comment expected */
   .icon-svg {
     filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(298deg) brightness(106%) contrast(106%);
   }
