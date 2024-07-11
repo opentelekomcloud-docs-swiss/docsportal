@@ -1,9 +1,10 @@
-========================================
-Open Telekom Cloud Service Documentation
-========================================
+==============================================
+Swiss Open Telekom Cloud Service Documentation
+==============================================
 
 .. service_navigator::
    :class: navigator-container
+   :environment: internal
 
 .. toctree::
    :hidden:
@@ -11,4 +12,4 @@ Open Telekom Cloud Service Documentation
    services
    developer/index
    additional/index
-   releasenotes
+   Release Notes <https://open-telekom-cloud.com/de/support/release-notes>
