@@ -1,5 +1,5 @@
 ==============================================
-Open Telekom Cloud Swiss Service Documentation
+Swiss Open Telekom Cloud Service Documentation
 ==============================================
 
 .. service_navigator::
