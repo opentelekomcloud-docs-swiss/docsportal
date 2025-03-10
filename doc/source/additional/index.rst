@@ -4,7 +4,7 @@ Additional Resources
 .. toctree::
    :maxdepth: 1
 
-   endpoints
+   Regions and Endpoints </regions-and-endpoints/index>
    glossary
    Console <https://console.sc.otc.t-systems.com>
    Status Dashboard <https://status-ch.otc-service.com>
