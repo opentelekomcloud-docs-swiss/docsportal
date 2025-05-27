@@ -26,6 +26,7 @@ otcdocs_service_category = ''
 otcdocs_service_title = 'Swiss Helpcenter'
 otcdocs_service_type = ''
 otcdocs_search_environment = 'hc_swiss'
+otcdocs_cloud_environment = 'swiss'
 otcdocs_search_index = 'search_index_swiss'
 otcdocs_search_url = "https://opensearch.eco.tsi-dev.otc-service.com/"
 
