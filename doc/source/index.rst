@@ -4,7 +4,7 @@ Swiss Open Telekom Cloud Service Documentation
 
 .. service_navigator::
    :class: navigator-container
-   :environment: internal
+   :cloud_environment: swiss
 
 .. toctree::
    :hidden:
