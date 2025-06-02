@@ -8,6 +8,6 @@ Services
    network
    storage
    md
-   security
-   app
+   security-services
+   application
    database
