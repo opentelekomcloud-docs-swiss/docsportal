@@ -7,6 +7,7 @@ Developer
    api
    api_guidelines/index
    sdk
+   third-party-sdk
    iac
    drivers
-   Architecture Center <https://docs-int.otc-service.com/architecture-center/>
+   Architecture Center <https://arch-stg.otc-service.com/>
